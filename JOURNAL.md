@@ -15,3 +15,9 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 ![keyboard-blueprint.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzAwLCJwdXIiOiJibG9iX2lkIn19--a3ea0caf46a525c03eab2a6faff4c0c0e8d020e5/keyboard-blueprint.png)
 I want to use a ISO - Layout (German) and I want one number row and one Shortcut row. Also a volume knob is important for me. I also decided on some shortcut keys on the right hand side which i am going to bind on discord mute and some other useful functions.  
 
+## 10/5/2025 - New Layout and schematic  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTIyLCJwdXIiOiJibG9iX2lkIn19--3e4bdb888e32b66c3f697aae31caa9faeec8a741/image.png)
+![keyboard-blueprint.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTIzLCJwdXIiOiJibG9iX2lkIn19--6def45f1c90469df7897b3b3386cc99fdf5db086/keyboard-blueprint.png)
+I rearranged the layout and made the schematic. I settled on the rp2040 based RP2040 Pro Micro 16MB/128Mbit USB-C Controller from Keeb.io. I am going to use 84 switches (12 rows, 7 columns). And I am going to implement a rotary encoder (PEC11R-4215F-S0024). And I am probaply going to include a acrylic glass window in the case which I am going to start working on next.  
+
