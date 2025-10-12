@@ -21,3 +21,10 @@ I want to use a ISO - Layout (German) and I want one number row and one Shortcut
 ![keyboard-blueprint.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTIzLCJwdXIiOiJibG9iX2lkIn19--6def45f1c90469df7897b3b3386cc99fdf5db086/keyboard-blueprint.png)
 I rearranged the layout and made the schematic. I settled on the rp2040 based RP2040 Pro Micro 16MB/128Mbit USB-C Controller from Keeb.io. I am going to use 84 switches (12 rows, 7 columns). And I am going to implement a rotary encoder (PEC11R-4215F-S0024). And I am probaply going to include a acrylic glass window in the case which I am going to start working on next.  
 
+## 10/12/2025 - I updated the schematic.  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--a53e05892fc6190f8d858fd072210d633ca3c9b1/image.png)
+
+I used labels. I used a new symbol for the microcontroller. I updated the matrix. I assigned footprints and decided on diodes I am going to use. I am going to use smd diodes. Hopefully blueprint will add helping hands or some sort of smd soldering accesories to the toobag.
+  
+
