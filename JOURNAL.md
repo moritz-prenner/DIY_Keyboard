@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **DIY_Keyboard**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/136).
-
-
 ## 10/4/2025 - I created the layout i am going to use.  
 
 ![keyboard-blueprint.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzAwLCJwdXIiOiJibG9iX2lkIn19--a3ea0caf46a525c03eab2a6faff4c0c0e8d020e5/keyboard-blueprint.png)
@@ -26,5 +22,10 @@ I rearranged the layout and made the schematic. I settled on the rp2040 based RP
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--a53e05892fc6190f8d858fd072210d633ca3c9b1/image.png)
 
 I used labels. I used a new symbol for the microcontroller. I updated the matrix. I assigned footprints and decided on diodes I am going to use. I am going to use smd diodes. Hopefully blueprint will add helping hands or some sort of smd soldering accesories to the toobag.
+  
+
+## 10/26/2025 - Routed the PCB  
+
+I updated the schematic to make wiring easier. Then I layed out all of the components and added an OLED screen. Then I routed everything and exported some pictures.![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY4MywicHVyIjoiYmxvYl9pZCJ9fQ==--ecfa60a9d6af1740fd8a747e8bd1d7f3d2dff957/image.png)
   
 
