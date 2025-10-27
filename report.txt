@@ -1,0 +1,12 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to 'D:\DIY_Keyboard\DIY_Keyboard-F_Cu.pdf'.
+Plotted to 'D:\DIY_Keyboard\DIY_Keyboard-B_Cu.pdf'.
+Plotted to 'D:\DIY_Keyboard\DIY_Keyboard-F_Paste.pdf'.
+Plotted to 'D:\DIY_Keyboard\DIY_Keyboard-B_Paste.pdf'.
+Plotted to 'D:\DIY_Keyboard\DIY_Keyboard-F_Silkscreen.pdf'.
+Plotted to 'D:\DIY_Keyboard\DIY_Keyboard-B_Silkscreen.pdf'.
+Plotted to 'D:\DIY_Keyboard\DIY_Keyboard-F_Mask.pdf'.
+Plotted to 'D:\DIY_Keyboard\DIY_Keyboard-B_Mask.pdf'.
+Plotted to 'D:\DIY_Keyboard\DIY_Keyboard-Edge_Cuts.pdf'.
+Info: Done.
+Info: Done.
