@@ -29,3 +29,8 @@ I used labels. I used a new symbol for the microcontroller. I updated the matrix
 I updated the schematic to make wiring easier. Then I layed out all of the components and added an OLED screen. Then I routed everything and exported some pictures.![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY4MywicHVyIjoiYmxvYl9pZCJ9fQ==--ecfa60a9d6af1740fd8a747e8bd1d7f3d2dff957/image.png)
   
 
+## 10/27/2025 - I updated the pcb.  
+
+I fixed most of the errors in the DRC. I changed the footprint of the oled screen. And I also improved my ground plane. I think I am now going to move on to the case. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTkyMywicHVyIjoiYmxvYl9pZCJ9fQ==--c4fbdee94235614146a3681299994421e01d8a37/image.png)
+  
+
