@@ -2419,7 +2419,7 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 181.61) (xy 374.65 181.61)
+			(xy 373.38 181.61) (xy 375.92 181.61)
 		)
 		(stroke
 			(width 0)
@@ -2569,6 +2569,16 @@
 	)
 	(wire
 		(pts
+			(xy 374.65 182.88) (xy 370.84 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a8f2e1c-6986-475a-b64e-ee3cdaf2cc7c")
+	)
+	(wire
+		(pts
 			(xy 121.92 46.99) (xy 135.89 46.99)
 		)
 		(stroke
@@ -2686,6 +2696,16 @@
 			(type default)
 		)
 		(uuid "37f5657f-7fa5-4ad5-939a-fb9ec8971fc7")
+	)
+	(wire
+		(pts
+			(xy 377.19 186.69) (xy 377.19 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "397ee489-4b8a-487b-9495-075bcdaee9a4")
 	)
 	(wire
 		(pts
@@ -2856,16 +2876,6 @@
 			(type default)
 		)
 		(uuid "4f950c4f-7e56-4fb3-8a7e-b055c6a0376d")
-	)
-	(wire
-		(pts
-			(xy 370.84 182.88) (xy 377.19 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52f5b9e6-d80c-4f82-ab71-554c61a2fa07")
 	)
 	(wire
 		(pts
@@ -3129,6 +3139,16 @@
 	)
 	(wire
 		(pts
+			(xy 375.92 186.69) (xy 377.19 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71f0f2f4-10e3-4bec-a7e6-12d1a89d30e9")
+	)
+	(wire
+		(pts
 			(xy 149.86 66.04) (xy 165.1 66.04)
 		)
 		(stroke
@@ -3296,6 +3316,16 @@
 			(type default)
 		)
 		(uuid "894c2433-d9b7-4a1b-85c7-a3719fa411af")
+	)
+	(wire
+		(pts
+			(xy 375.92 181.61) (xy 375.92 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89de0ec6-8ba4-458b-bbd9-db063cb56c37")
 	)
 	(wire
 		(pts
@@ -3809,6 +3839,16 @@
 	)
 	(wire
 		(pts
+			(xy 374.65 195.58) (xy 374.65 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0a08a48-114c-4d35-a244-278b77c05043")
+	)
+	(wire
+		(pts
 			(xy 125.73 138.43) (xy 125.73 154.94)
 		)
 		(stroke
@@ -3816,16 +3856,6 @@
 			(type default)
 		)
 		(uuid "d19b3b9c-173e-474b-9c13-e0d3b058be97")
-	)
-	(wire
-		(pts
-			(xy 377.19 182.88) (xy 377.19 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1a16b79-a93a-49c3-a371-77a514af4a6c")
 	)
 	(wire
 		(pts
@@ -3846,16 +3876,6 @@
 			(type default)
 		)
 		(uuid "d35917a6-d9aa-4ceb-89d2-e6abd17dc92e")
-	)
-	(wire
-		(pts
-			(xy 374.65 181.61) (xy 374.65 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d68e5002-eafb-4d8f-a423-e5d4c9827a0c")
 	)
 	(wire
 		(pts
@@ -15164,7 +15184,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_ISOEnter_PCB"
+		(property "Footprint" "keyboardkey:SW_Cherry_MX_ISOEnter_PCB_v2"
 			(at 236.22 73.66 0)
 			(effects
 				(font
