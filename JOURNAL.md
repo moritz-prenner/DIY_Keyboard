@@ -34,3 +34,14 @@ I updated the schematic to make wiring easier. Then I layed out all of the compo
 I fixed most of the errors in the DRC. I changed the footprint of the oled screen. And I also improved my ground plane. I think I am now going to move on to the case. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTkyMywicHVyIjoiYmxvYl9pZCJ9fQ==--c4fbdee94235614146a3681299994421e01d8a37/image.png)
   
 
+## 10/28/2025 - Finalized the pcb  
+
+I finalized the pcb design with changes like:
+- rotary encoder better aligned
+- enter key rotated by 90 degrees
+- etc
+You can view my design on my
+Github: https://github.com/moritz-prenner/DIY_Keyboard
+or via kicanvas: https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fmoritz-prenner%2FDIY_Keyboard![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--1bd06b6aa531e6ddf62a059b296149fa82675e4f/image.png)
+  
+
