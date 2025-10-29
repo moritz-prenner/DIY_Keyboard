@@ -45,3 +45,10 @@ Github: https://github.com/moritz-prenner/DIY_Keyboard
 or via kicanvas: https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fmoritz-prenner%2FDIY_Keyboard![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--1bd06b6aa531e6ddf62a059b296149fa82675e4f/image.png)
   
 
+## 10/29/2025 - Started the case and plate design  
+
+I started the plate and case design. I am going to use a top mount. I am currently trying to lay every component out and check the clearance. (e.g pcb, switches)![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--3125ef66f237844448f2e27620e792eee99b157c/image.png)
+
+
+  
+
