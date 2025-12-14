@@ -7,5 +7,6 @@
 
 diy keyboard for blueprint
 
-<img width="1087" height="594" alt="image" src="https://github.com/user-attachments/assets/998d841a-18b3-40af-a02a-9e6c9d669de3" />
+<img width="1313" height="625" alt="image" src="https://github.com/user-attachments/assets/0e4fbe40-19bc-4c51-af04-6b26bbefe2f8" />
+
 
